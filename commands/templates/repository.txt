@@ -1,0 +1,10 @@
+import BaseRepository from "App/Lib/Repository/BaseRepository";
+import {{ modelName }} from "App/Models/{{ modelName }}";
+import { inject } from "@adonisjs/fold";
+
+@inject()
+export default class {{ name }} extends BaseRepository<typeof {{ modelName }}> {
+    constructor() {
+        super({{ modelName }});
+    }
+}

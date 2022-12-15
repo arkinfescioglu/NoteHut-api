@@ -1,0 +1,9 @@
+{
+
+  "validation": {
+    "categoryName.required": "Please enter the category name.",
+    "categoryName.maxLength": "Category name can be up to 150 characters."
+  },
+
+  "generalCategory": "General"
+}

@@ -1,0 +1,12 @@
+{
+  "authError": "Lütfen üye girişi yapınız.",
+  "notFound": "Aradığınız Veri Bulunamadı.",
+  "system": "Şu an bu işlemi gerçekleştiremiyoruz. Lütfen daha sonra tekrar deneyiniz.",
+  "paramReq": "Eksik parametre",
+  "emailNotFound": "E-posta adresi bulunamadı.",
+  "passwordNotCorrect": "Girdiğiniz şifre hatalı.",
+  "permissionError": "Yetersiz Yetk,",
+  "accountNotActive": "Hesabınız henüz onay sürecinde..",
+  "insufficientMoney": "Cüzdanınızda yeterli miktarda para bulunmamaktadır.",
+  "canNotDel": "Bu veriyi silemezsiniz."
+}

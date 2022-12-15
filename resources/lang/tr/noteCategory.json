@@ -1,0 +1,8 @@
+{
+  "validation": {
+    "categoryName.required": "Lütfen kategori adını giriniz.",
+    "categoryName.maxLength": "Kategori adı en fazla 150 karakter olabilir."
+  },
+
+  "generalCategory": "Genel"
+}

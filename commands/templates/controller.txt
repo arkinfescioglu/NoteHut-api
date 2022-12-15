@@ -1,0 +1,13 @@
+import type { HttpContextContract } from '@ioc:Adonis/Core/HttpContext'
+import ApiController from "../ApiController";
+import { inject } from "@adonisjs/fold";
+import {{ serviceName }} from 'App/Services/{{ serviceName }}';
+
+@inject()
+export default class {{ name }} extends ApiController {
+    constructor(
+        protected service: {{ serviceName }}
+    ) {
+        super();
+    }
+}

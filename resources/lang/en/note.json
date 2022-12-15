@@ -1,0 +1,8 @@
+{
+  "validation": {
+    "categoryId.exists": "The category you selected does not exist.",
+    "noteTitle.required": "Please enter the category title.",
+    "noteTitle.maxLength": "Category title can be up to 150 characters.",
+    "noteContent.required": "Please enter the content of the note."
+  }
+}

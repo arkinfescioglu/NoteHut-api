@@ -1,0 +1,8 @@
+{
+  "validation": {
+    "categoryId.exists": "Seçtiğiniz kategori mevcut değil.",
+    "noteTitle.required": "Lütfen kategori başlığını giriniz.",
+    "noteTitle.maxLength": "Kategori başlığı en fazla 150 karakter olabilir.",
+    "noteContent.required": "Lütfen not içeriğini giriniz."
+  }
+}

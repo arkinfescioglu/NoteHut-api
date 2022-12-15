@@ -1,0 +1,12 @@
+{
+  "authError": "Please login",
+  "notFound": "The data you were looking for was not found",
+  "system": "We are currently unable to perform this operation. Please try again later.",
+  "paramReq": "Missing parameter",
+  "emailNotFound": "Email address was not found",
+  "passwordNotCorrect": "The password you entered is incorrect",
+  "permissionError": "Insufficient Authority",
+  "accountNotActive": "Your account is still in the approval process.",
+  "insufficientMoney": "You do not have enough money in your wallet.",
+  "canNotDel": "You can not delete this."
+}

@@ -1,0 +1,10 @@
+import BaseService from "App/Lib/Service/BaseService";
+import { inject } from "@adonisjs/fold";
+import {{ repositoryName }} from "App/Repositories/{{ repositoryName }}";
+
+@inject()
+export default class {{ name }} extends BaseService {
+    constructor(protected repository: {{ repositoryName }}) {
+        super();
+    }
+}
